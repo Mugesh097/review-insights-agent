@@ -1,0 +1,6 @@
+NULL_HANDLING:
+  - null check
+  - null validation
+UNIT_TESTING:
+  - unit test
+  - test coverage
